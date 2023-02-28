@@ -1,5 +1,7 @@
-# libcurl-websocket-example-basic
-Basic example of using libcurl to use a websocket connection
+I couldn't find code yet that implemented the new websocket connection type in libcurl.
+
+So this is that.
+
 
 
 # Output from this code:
