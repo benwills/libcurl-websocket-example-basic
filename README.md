@@ -2,7 +2,7 @@
 Basic example of using libcurl to use a websocket connection
 
 
-# Output from this script:
+# Output from this code:
 ```
 *   Trying 3.212.19.188:443...
 * Connected to ws.postman-echo.com (3.212.19.188) port 443 (#0)
